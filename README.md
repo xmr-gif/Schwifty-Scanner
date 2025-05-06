@@ -6,6 +6,9 @@
 
 A lightweight penetration testing tool to detect common web vulnerabilities (**XSS**, **SQL Injection**, **CSRF**) and empower developers to secure their applications.  
 
+![SchwiftyScanner Logo](
+rick-sanchez-schwifty-dope-laptop-exwtrlg412wnlvmw.jpg) 
+
 ---
 
 ## ✨ Features  
