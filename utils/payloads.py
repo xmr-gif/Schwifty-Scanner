@@ -1,6 +1,8 @@
 XSS_PAYLOADS = [
     "<script>alert('XSS')</script>",
     "<img src=x onerror=alert('XSS')>"
+    '<audio controls autoplay onended=alert(1)><source src="validaudio.wav" type="audio/wav"></audio>',
+    "<audio src/onerror=alert(1)>"
 ]
 
 SQLI_PAYLOADS = [
