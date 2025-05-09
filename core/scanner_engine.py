@@ -7,6 +7,8 @@ from tqdm import tqdm
 from typing import Dict, List
 import logging
 from utils.payloads import XSS_PAYLOADS, SQLI_PAYLOADS
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 logger = logging.getLogger(__name__)
 
