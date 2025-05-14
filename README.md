@@ -26,6 +26,9 @@ git clone https://github.com/xmr-gif/Schwifty-Scanner.git
 cd SchwiftyScanner  
 pip3 install -r requirements.txt
 
+python3 -m venv penv
+source penv/bin/activate
+
 ```
 ---
 
