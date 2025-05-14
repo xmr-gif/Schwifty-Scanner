@@ -23,7 +23,7 @@ rick-sanchez-schwifty-dope-laptop-exwtrlg412wnlvmw.jpg)
 ## 🚀 Installation  
 ```bash  
 git clone https://github.com/xmr-gif/Schwifty-Scanner.git 
-cd SchwiftyScanner  
+cd Schwifty-Scanner  
 pip3 install -r requirements.txt
 
 python3 -m venv penv
